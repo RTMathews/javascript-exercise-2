@@ -17,3 +17,5 @@ container.appendChild(blue);
 const pinkDiv = document.createElement('div');
 pinkDiv.classList.add('pinkDiv');
 pinkDiv.style.cssText = "background-color:pink border:2-x solid black;"
+
+container.appendChild(pinkDiv);
