@@ -8,3 +8,4 @@ red.style.cssText = "color:red;"
 container.appendChild(red);
 
 const blue = document.createElement('h3');
+blue.classList.add('blue');
