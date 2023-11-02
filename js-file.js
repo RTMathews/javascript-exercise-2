@@ -15,3 +15,4 @@ blue.style.cssText = "color:blue;"
 container.appendChild(blue);
 
 const pinkDiv = document.createElement('div');
+pinkDiv.classList.add('pinkDiv');
