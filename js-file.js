@@ -6,3 +6,5 @@ red.textContent = "Hey I'm Red!"
 red.style.cssText = "color:red;"
 
 container.appendChild(red);
+
+const blue = document.createElement('h3');
