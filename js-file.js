@@ -22,5 +22,6 @@ const pinkP = document.createElement('p');
 pinkH1.textContent = "I'm in a div"
 pinkP.textContent = "ME TOO!"
 
+pinkDiv.appendChild(pinkP);
 pinkDiv.appendChild(pinkH1);
 container.appendChild(pinkDiv);
