@@ -13,3 +13,5 @@ blue.textContent = "I'm a blue h3!"
 blue.style.cssText = "color:blue;"
 
 container.appendChild(blue);
+
+const pinkDiv = document.createElement('div');
